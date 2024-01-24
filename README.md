@@ -2,6 +2,11 @@
 
 Bienvenue dans le projet d'apprentissage React créé en suivant le tutoriel OpenClassroom. Ce projet consiste à construire un site de vente de plantes en utilisant React.
 
+
+https://github.com/MatthieuRoess/TutorielReact/assets/123086572/1e48d9a1-be60-400c-9766-55f34f6e0f15
+
+
+
 ## Objectif du Projet
 
 L'objectif principal de ce projet est d'apprendre les concepts fondamentaux de React en construisant un site de commerce électronique pour la vente de plantes. Le tutoriel d'OpenClassroom a été suivi pour guider le processus d'apprentissage.
